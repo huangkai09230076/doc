@@ -107,9 +107,9 @@
 
 
 
-##Live Templates
-|Shortcut|Description|
-|:---------|:---------|
+## Live Templates   
+|Shortcut|Description| 
+|:---------|:---------| 
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd> | Surround with Live Template |
 |<kbd>Ctrl</kbd> + <kbd>J</kbd> | Insert Live Template |
 |<kbd>iter</kbd> | Iteration according to Java SDK 1.5 style |
@@ -167,9 +167,9 @@
 
 
 
-##General
-|Shortcut|Description|
-|:---------|:---------|
+## General
+|Shortcut|Description| 
+|:---------|:---------| 
 |<kbd>Alt</kbd> + <kbd>#[0-9]</kbd> | Open corresponding tool window |
 |<kbd>Ctrl</kbd> + <kbd>S</kbd> | Save all |
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Y</kbd> | Synchronize |
