@@ -54,6 +54,20 @@
 
 
 
+## Search/Replace
+|Shortcut|Description|
+|:---------|:---------|
+|<kbd>Double Shift</kbd> | Search everywhere |
+|<kbd>Ctrl</kbd> + <kbd>F</kbd> |Find |
+|<kbd>F3</kbd> / <kbd>Shift</kbd> + <kbd>F3</kbd> | Find next / Find previous |
+|<kbd>Ctrl</kbd> + <kbd>R</kbd> | Replace |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> | Find in path |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> | Replace in path |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> | Search structurally (Ultimate Edition only) |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd> | Replace structurally (Ultimate Edition only) |
+
+
+
 ## Navigation
 |Shortcut|Description|
 |:---------|:---------|
@@ -92,29 +106,10 @@
 
 
 
-## Search/Replace
-|Shortcut|Description|
-|:---------|:---------|
-|<kbd>Double Shift</kbd> | Search everywhere |
-|<kbd>Ctrl</kbd> + <kbd>F</kbd> |Find |
-|<kbd>F3</kbd> / <kbd>Shift</kbd> + <kbd>F3</kbd> | Find next / Find previous |
-|<kbd>Ctrl</kbd> + <kbd>R</kbd> | Replace |
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> | Find in path |
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> | Replace in path |
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> | Search structurally (Ultimate Edition only) |
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd> | Replace structurally (Ultimate Edition only) |
-
 
 ##Live Templates
 |Shortcut|Description|
 |:---------|:---------|
-|<kbd>Ctrl</kbd> + <kbd>Space</kbd> | Basic code completion (the name of any class, method or variable)|
-
-
-## Usage Search
-|Shortcut|Description|
-|:---------|:---------|
-|<kbd>Ctrl</kbd> + <kbd>Space</kbd> | Basic code completion (the name of any class, method or variable)|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd> | Surround with Live Template |
 |<kbd>Ctrl</kbd> + <kbd>J</kbd> | Insert Live Template |
 |<kbd>iter</kbd> | Iteration according to Java SDK 1.5 style |
