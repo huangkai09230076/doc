@@ -40,6 +40,12 @@
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd> / <kbd>[</kbd> |Select till code block end/start |
 |<kbd>Ctrl</kbd> + <kbd>Delete</kbd> / <kbd>Backspace</kbd>	|Delete to word end/start|
 |<kbd>Ctrl</kbd> + <kbd>NumPad+</kbd> / <kbd> NumPad- </kbd>	|Expand/collapse code block|
-|<kbd>Ctrl </kbd> + <kbd>Shift</kbd> + <kbd> NumPad+	 |</kbd> + <kbd>and all|
+|<kbd>Ctrl </kbd> + <kbd>Shift</kbd> + <kbd> NumPad+	 |Expand al|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> NumPad-</kbd>	 |Collapse all|
 |<kbd>Ctrl</kbd> + <kbd>F4</kbd>	|Close active editor tab|
+
+
+
+# reference
+> - [IntelliJ IDEA Default KeyMap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+> - [IntelliJ IDEA | Preferences | Keymap for macOS ](https://www.jetbrains.com/help/idea/settings-keymap.html)
