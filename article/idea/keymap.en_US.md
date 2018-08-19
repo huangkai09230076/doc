@@ -196,4 +196,4 @@
 # reference
 
 > - [IntelliJ IDEA Default KeyMap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
-> - [IntelliJ IDEA | Preferences | Keymap for macOS ](https://www.jetbrains.com/help/idea/settings-keymap.html)
+> - [IntelliJ IDEA > Preferences > Keymap for macOS ](https://www.jetbrains.com/help/idea/settings-keymap.html)
