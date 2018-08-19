@@ -47,8 +47,8 @@
 
 ## Usage Search
 
-|Shortcut|Description|
-|:---------|:---------|
+|Shortcut|Description|  
+|:---------|:---------|  
 |<kbd>Alt</kbd> + <kbd>F7</kbd> / <kbd>Ctrl</kbd> + <kbd>F7</kbd> | Find usages/Find usages in file |
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F7</kbd> | Highlight usages in file |
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F7</kbd> | Show usages |
@@ -57,8 +57,8 @@
 
 ## Search/Replace
 
-|Shortcut|Description|
-|:---------|:---------|
+|Shortcut|Description|  
+|:---------|:---------|  
 |<kbd>Double Shift</kbd> | Search everywhere |
 |<kbd>Ctrl</kbd> + <kbd>F</kbd> |Find |
 |<kbd>F3</kbd> / <kbd>Shift</kbd> + <kbd>F3</kbd> | Find next / Find previous |
