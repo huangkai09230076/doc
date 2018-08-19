@@ -46,6 +46,7 @@
 
 
 ## Usage Search
+
 |Shortcut|Description|
 |:---------|:---------|
 |<kbd>Alt</kbd> + <kbd>F7</kbd> / <kbd>Ctrl</kbd> + <kbd>F7</kbd> | Find usages/Find usages in file |
@@ -55,6 +56,7 @@
 
 
 ## Search/Replace
+
 |Shortcut|Description|
 |:---------|:---------|
 |<kbd>Double Shift</kbd> | Search everywhere |
@@ -69,6 +71,7 @@
 
 
 ## Navigation
+
 |Shortcut|Description|
 |:---------|:---------|
 |<kbd>Ctrl</kbd> + <kbd>Space</kbd> | Basic code completion (the name of any class, method or variable)|
@@ -108,6 +111,7 @@
 
 
 ## Live Templates   
+
 |Shortcut|Description| 
 |:---------|:---------| 
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd> | Surround with Live Template |
@@ -122,6 +126,7 @@
 
 
 ## Refactoring
+
 |Shortcut|Description|
 |:---------|:---------|
 |<kbd>F5</kbd> | Copy |
@@ -138,6 +143,7 @@
 
 
 ## Debugging
+
 |Shortcut|Description|
 |:---------|:---------|
 |<kbd>F8</kbd> / <kbd>F7</kbd> | Step over/Step into |
@@ -149,6 +155,7 @@
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F8</kbd> | View breakpoints |
 
 ## Compile and Run 
+
 |Shortcut|Description|
 |:---------|:---------|
 |<kbd>Ctrl</kbd> + <kbd>F9</kbd> | Make project (compile modifed and dependent) |
@@ -159,6 +166,7 @@
 
 
 ## VCS/Local History
+
 |Shortcut|Description|
 |:---------|:---------|
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> / <kbd>Ctrl</kbd> / <kbd>T</kbd> | Commit project to VCS/Update from VCS |
@@ -168,6 +176,7 @@
 
 
 ## General
+
 |Shortcut|Description| 
 |:---------|:---------| 
 |<kbd>Alt</kbd> + <kbd>#[0-9]</kbd> | Open corresponding tool window |
@@ -185,5 +194,6 @@
 
 
 # reference
+
 > - [IntelliJ IDEA Default KeyMap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 > - [IntelliJ IDEA | Preferences | Keymap for macOS ](https://www.jetbrains.com/help/idea/settings-keymap.html)
